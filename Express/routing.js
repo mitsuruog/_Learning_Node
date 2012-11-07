@@ -13,6 +13,7 @@ app.get(/^\/node?(?:\/(\d+)(?:\.\.(\d+))?)?/, function(req, res){
 });
 
 app.get('/content/*', function(req, res) {
+    console.log(req.params);
     res.send(req.params);
 });
 
