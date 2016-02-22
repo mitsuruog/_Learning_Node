@@ -1,0 +1,23 @@
+{
+  "name": "learning_node",
+  "version": "1.0.0",
+  "description": "nodejs勉強用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitsuruog/_Learning_Node.git"
+  },
+  "author": "mitsuruog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitsuruog/_Learning_Node/issues"
+  },
+  "homepage": "https://github.com/mitsuruog/_Learning_Node#readme",
+  "dependencies": {
+    "filed": "^0.1.0",
+    "oppressor": "0.0.1"
+  }
+}
