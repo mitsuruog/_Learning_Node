@@ -1,0 +1,15 @@
+{
+  "name": "learning_node_stream",
+  "version": "1.0.0",
+  "description": "refs [substack/stream-handbook: how to write node programs with streams](https://github.com/substack/stream-handbook)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mitsuruog <mitsuru.ogawa.jp@gmail.com> (http://blog.mitsuruog.info/)",
+  "license": "MIT",
+  "dependencies": {
+    "filed": "^0.1.0",
+    "oppressor": "0.0.1"
+  }
+}

@@ -15,9 +15,5 @@
   "bugs": {
     "url": "https://github.com/mitsuruog/_Learning_Node/issues"
   },
-  "homepage": "https://github.com/mitsuruog/_Learning_Node#readme",
-  "dependencies": {
-    "filed": "^0.1.0",
-    "oppressor": "0.0.1"
-  }
+  "homepage": "https://github.com/mitsuruog/_Learning_Node#readme"
 }
